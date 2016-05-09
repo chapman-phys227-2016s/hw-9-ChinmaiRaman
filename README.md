@@ -17,7 +17,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw9.ipynb```
 
 ## Assessment
 
-
+This assignment was straightforward. Homework 10 definitely won't be though.
 
 ## Honor Pledge
 
